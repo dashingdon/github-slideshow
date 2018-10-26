@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our third slide!"
 ---
-Updated Text
+Third slide Text. Review and confirm
 Use the left arrow to go back!
